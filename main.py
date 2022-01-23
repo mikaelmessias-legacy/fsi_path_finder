@@ -108,6 +108,8 @@ if __name__ == '__main__':
                         else:
                             print("\n>> Cuidado com as paredes...\n")
                 print()
+
+                goal = (x, y)
             elif typed_option == 6:
                 break
             else:

@@ -20,8 +20,6 @@ def start_search(graph, start, goal, selected_algorithm):
             graph, start, goal
         )
 
-    print(came_from)
-
     path, found = utils.graph_reconstruct_path(
         came_from, start=start, goal=goal
     )
