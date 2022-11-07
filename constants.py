@@ -2,8 +2,8 @@ from enum import Enum
 
 # definir WIDTH e HEIGHT sempre no formato NxN (mesmo valor para ambos)
 class Grid(Enum):
-    WIDTH = 30
-    HEIGHT = 30
+    WIDTH = 20
+    HEIGHT = 20
     REWARDS = 100
 
 # AGENT RELATED CONSTANTS

@@ -24,7 +24,7 @@ if __name__ == '__main__':
         "☻ - Posição inicial do agente\n" +
         "☺ - Demarca o caminho percorrido pelo agente\n\n" +
         "♦ - Objetivo\n" +
-        "$ - Recompensas\t\t\tCusto: +0\n"
+        "$ - Recompensas\t\t\tCusto: 0, Ganho: +12.5\n"
     )
 
     print(
